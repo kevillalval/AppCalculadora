@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ly0eLEu0ssr6TQLO0y8pvVEJTdzjDDgxVR+D/Y17Zj8ledA+zzn1GEBXhxoV/BKM/NUVTdbZTV0idU/h9bvKxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tvo\\source\\repos\\AppCalculadora\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tvo\\.nuget\\packages\\coreclr-ncalc\\2.2.113\\coreclr-ncalc.2.2.113.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

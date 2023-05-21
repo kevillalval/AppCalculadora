@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dBLh92xcQ/K4H+7L0GeTPQ4Vt4z90QTDB4MxgXLg+QztfYvvh72ZPmXbQJI/RaiVlcPaPg/6mzAW6Yqp+ZDMZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tvo\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tvo\\.nuget\\packages\\coreclr-ncalc\\2.2.113\\coreclr-ncalc.2.2.113.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tvo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

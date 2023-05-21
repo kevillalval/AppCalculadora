@@ -1,0 +1,15 @@
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netstandard2.0\AppCalculadora.deps.json
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netstandard2.0\AppCalculadora.dll
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\bin\Debug\netstandard2.0\AppCalculadora.pdb
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.csproj.AssemblyReference.cache
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.AssemblyInfoInputs.cache
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.AssemblyInfo.cs
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.dll
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\refint\AppCalculadora.dll
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.pdb
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\ref\AppCalculadora.dll

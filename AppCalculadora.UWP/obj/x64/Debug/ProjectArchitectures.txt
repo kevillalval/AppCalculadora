@@ -1,0 +1,1 @@
+C:\Users\tvo\source\repos\AppCalculadora\AppCalculadora.UWP\AppCalculadora.UWP.csproj;x64
