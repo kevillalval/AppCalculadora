@@ -4,13 +4,13 @@
              x:Class="AppCalculadora.MainPage"
              BackgroundColor="#2F4F4F">
 
-    
+
 
 
     <StackLayout Padding="20">
         <Frame BackgroundColor="WhiteSmoke"
-               Padding="15"
-               Margin="0,0,0,20">
+               Padding="30"
+               Margin="0,0,0,25">
             <Label x:Name="lblResultado"
                    FontFamily="digital-7.ttf#Digital-7 Regualar"
                 Text="0"
@@ -38,7 +38,7 @@
                 Text="C"
                     FontSize="Large"
                     FontAttributes="Bold"
-                    Padding="35"
+                    Padding="25"
                     x:Name="BtnLimpiar"
                     Clicked="BtnLimpiar_Clicked"/>
             <Button Grid.Row="0"
@@ -46,7 +46,7 @@
                 Text="X"
                     FontSize="Large"
                     FontAttributes="Bold"
-                    Padding="35"
+                    Padding="25"
                     x:Name="BtnBorrar"
                     Clicked="BtnBorrar_Clicked"/>
             <Button Grid.Row="0"
@@ -54,7 +54,7 @@
                 Text="%"
                     FontSize="Large"
                     FontAttributes="Bold"
-                    Padding="35"
+                    Padding="25"
                     x:Name="BtnPorcentaje"
                     Clicked="BtnPorcentaje_Clicked"
                     />
@@ -63,16 +63,16 @@
                 Text="/"
                     FontSize="Large"
                     FontAttributes="Bold"
-                    Padding="35"
+                    Padding="25"
                     Clicked="BtnOperaciones_Clicked"/>
-            
+
             <!--Para la segunda fila-->
             <Button Grid.Row="1"
               Grid.Column="0"
                 Text="1"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 x:Name="BtnUno"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="1"
@@ -80,21 +80,21 @@
                 Text="2"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="1"
               Grid.Column="2"
                 Text="3"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="1"
               Grid.Column="3"
                 Text="*"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnOperaciones_Clicked"/>
 
             <!--Para la tercera fila-->
@@ -103,28 +103,28 @@
                 Text="4"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="2"
               Grid.Column="1"
                 Text="5"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="2"
               Grid.Column="2"
                 Text="6"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="2"
               Grid.Column="3"
                 Text="-"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnOperaciones_Clicked"/>
 
             <!--Para la cuarta fila-->
@@ -133,21 +133,21 @@
                 Text="7"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="3"
               Grid.Column="1"
                 Text="8"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="3"
               Grid.Column="2"
                 Text="9"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="3"
               Grid.Column="3"
@@ -155,7 +155,7 @@
                 Text="+"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnOperaciones_Clicked"/>
 
             <!--Para la quinta fila-->
@@ -164,24 +164,24 @@
                 Text="."
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="4"
               Grid.Column="1"
                 Text="0"
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 Clicked="BtnAccionar_Clicked"/>
             <Button Grid.Row="4"
               Grid.Column="2"
                 Text="="
                 FontSize="Large"
                 FontAttributes="Bold"
-                Padding="35"
+                Padding="25"
                 x:Name="BtnResultadofinal"
                     Clicked="BtnResultadofinal_Clicked"/>
-            
+
         </Grid>
         <Label Text="UNIVERSIDAD TÉCNICA DEL NORTE"
        TextColor="Red"
@@ -191,7 +191,7 @@
        TextColor="Red"
        FontSize="14"
        HorizontalOptions="Center" />
-         <Label Text="CARRERA DE SOFTWARE"
+        <Label Text="CARRERA DE SOFTWARE"
        TextColor="Red"
        FontSize="14"
        HorizontalOptions="Center" />
